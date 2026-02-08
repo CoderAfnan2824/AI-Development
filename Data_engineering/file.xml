@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+
+    <record studentId="1" grade="A">
+        <fullname>Afnan Ahmed</fullname>
+        <marks subject="Maths">85</marks>
+        <marks subject="Physics">78</marks>
+        <status>Pass</status>
+    </record>
+
+    <record studentId="2" grade="A+">
+        <fullname>Rahul Sharma</fullname>
+        <marks subject="Maths">90</marks>
+        <marks subject="Physics">88</marks>
+        <status>Pass</status>
+    </record>
+
+    <record studentId="3" grade="B">
+        <fullname>Ayesha Khan</fullname>
+        <marks subject="Maths">72</marks>
+        <marks subject="Physics">80</marks>
+        <status>Pass</status>
+    </record>
+
+</school>

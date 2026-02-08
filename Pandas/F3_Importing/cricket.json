@@ -1,0 +1,26 @@
+[
+  {
+    "Team": "Mumbai Indians",
+    "City": "Mumbai",
+    "Titles_Won": 5,
+    "Captain": "Hardik Pandya"
+  },
+  {
+    "Team": "Chennai Super Kings",
+    "City": "Chennai",
+    "Titles_Won": 5,
+    "Captain": "MS Dhoni"
+  },
+  {
+    "Team": "Kolkata Knight Riders",
+    "City": "Kolkata",
+    "Titles_Won": 2,
+    "Captain": "Shreyas Iyer"
+  },
+  {
+    "Team": "Royal Challengers Bangalore",
+    "City": "Bengaluru",
+    "Titles_Won": 0,
+    "Captain": "Faf du Plessis"
+  }
+]
