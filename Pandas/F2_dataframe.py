@@ -20,6 +20,9 @@ print(df.iloc[1])  #selects the second row (index starts from 0)
 #Selecting a row by name
 print(df.loc['Student3'])  #selects the row with index 'Student3'
 
+#Selecting a column
+print(df['Name'])  #selects the 'Name' column
+
 #Adding a new column
 print( " ")
 df['Grade'] = ['A','B','C','D']

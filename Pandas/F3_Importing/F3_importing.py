@@ -13,4 +13,4 @@ print(data.to_string()) #prints the entire data without truncation
 data_json = pd.read_json(file_path / 'cricket.json')
 print("JSON Data: ")
 print()
-print(data_json.to_string()
+print(data_json.to_string())
